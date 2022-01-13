@@ -1,2 +1,2 @@
-# censor_save_your_tear
+# SaveYourTear
 Save your tear is Cfx resource anticheat
